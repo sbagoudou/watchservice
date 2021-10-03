@@ -1,0 +1,15 @@
+<WatchService>
+	<Header>
+		<Version>1</Version>
+	</Header>
+	<Datas>
+		<Data>
+			<Name>BAGOUDOU</Name>
+			<Langage>Java</Langage>
+		</Data>
+		<Data>
+			<Name>BAGOUDOU</Name>
+			<Langage>Angular</Langage>
+		</Data>
+	</Datas>
+</WatchService>
